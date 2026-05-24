@@ -1,4 +1,5 @@
-nano notes.md
+## Benefits of Version Control
+Version control helps developers track changes, collaborate efficiently, and restore previous versions of files when needed.nano notes.md
 # Study Notes Hub
 
 **Author:** Caleb Kenny
